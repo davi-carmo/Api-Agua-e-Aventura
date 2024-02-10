@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agua_e_Aventura", "Agua_e_Aventura.csproj", "{12832DA9-AB9D-406E-9234-F25F3B3DCA03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12832DA9-AB9D-406E-9234-F25F3B3DCA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12832DA9-AB9D-406E-9234-F25F3B3DCA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12832DA9-AB9D-406E-9234-F25F3B3DCA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12832DA9-AB9D-406E-9234-F25F3B3DCA03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7223A2C-9373-4E6F-9A8D-C81E1F0E159B}
+	EndGlobalSection
+EndGlobal
